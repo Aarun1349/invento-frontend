@@ -1,0 +1,27 @@
+
+
+.navbar{
+    background-color: #FC2947 !important;
+   
+}
+.navbar-collapse .collapse{
+    flex-direction:row-reverse !important;
+}
+
+.navbar-brand{
+    color: white !important;
+}
+.btn-outline-success{
+    color: white !important;
+    border-color: white !important;
+}
+.btn-outline-success:hover{
+    color: #FC2947 !important;
+    background-color: white !important;
+    font-weight: bold;
+}
+.d-flex{
+    flex-direction: row-reverse !important;
+    float:right !important;
+    margin-left: auto;
+}
